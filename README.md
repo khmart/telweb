@@ -10,7 +10,7 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img src="/Shop_online.JPG">
+        <img src="/Shop_online.jpg">
         <p>Lorem ispum dolor sit amet</p>
         <button id="buy">Купить</button>
     </div>
